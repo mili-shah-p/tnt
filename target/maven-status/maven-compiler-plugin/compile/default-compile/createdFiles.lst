@@ -1,0 +1,10 @@
+com\tnt\api\aggregation\Main.class
+com\tnt\api\aggregation\service\AggregationService$1.class
+com\tnt\api\aggregation\dtos\Aggregation.class
+com\tnt\api\aggregation\controller\AggregationController.class
+com\tnt\api\aggregation\service\AggregationService$3.class
+com\tnt\api\aggregation\service\AggregationService.class
+com\tnt\api\aggregation\service\AggregationService$2.class
+com\tnt\api\aggregation\dtos\Aggregation$AggregationBuilder.class
+com\tnt\api\aggregation\Status.class
+com\tnt\api\aggregation\configuration\WebClientWrapper.class
